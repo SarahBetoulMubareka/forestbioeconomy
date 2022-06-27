@@ -1,6 +1,6 @@
 # forestbioeconomy
-# written by Nicolas Robert, Bioeconomy Unit, European Commission Joint Research Centre
-#2019-2020
+##written by Nicolas Robert, Bioeconomy Unit, European Commission Joint Research Centre
+##2019-2020
 
 Method to calculate employment in the wood-based value chain (Robert et al., 2020b). 
 The script (in R 3.6) relies on Eurostat data: 
